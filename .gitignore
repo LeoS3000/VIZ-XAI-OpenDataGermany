@@ -14,3 +14,5 @@ germany_pois_filtered.geojson
 data/DE_VG5000.gpkg
 data/germany_pois_filtered.osm.pbf
 germany_pois_filtered.osm.pbf
+/data
+/output
