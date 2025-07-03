@@ -1,3 +1,8 @@
 /.DS_Store
 /.venv
 data
+output/all.gpkg
+output/shops.gpkg
+output/t&l.gpkg
+.gitignore
+output/tourism_leasure.gpkg
