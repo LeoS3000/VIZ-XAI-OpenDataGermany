@@ -1,0 +1,5 @@
+bpy 
+pandas 
+numpy 
+geopandas 
+blender_notebook
