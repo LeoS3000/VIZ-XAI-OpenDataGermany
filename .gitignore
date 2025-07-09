@@ -6,3 +6,4 @@ output/shops.gpkg
 output/t&l.gpkg
 .gitignore
 output/tourism_leasure.gpkg
+.venv
